@@ -1,6 +1,6 @@
-# command_dex
+# MTG: Command Dex
 
-A new Flutter project.
+A mobile card library for Magic: The Gathering trading card game
 
 ## Getting Started
 
