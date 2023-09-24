@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "966147097126",
+    "project_id": "mtg-command-dex",
+    "storage_bucket": "mtg-command-dex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966147097126:android:6028a492c245b9d1849ce7",
+        "android_client_info": {
+          "package_name": "com.example.command_dex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCydjQmD9c0gLbQLT2Mo4OlBJA4w0whKhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966147097126:android:92674397cd7beb78849ce7",
+        "android_client_info": {
+          "package_name": "mtg.commandDex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCydjQmD9c0gLbQLT2Mo4OlBJA4w0whKhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
